@@ -15,14 +15,14 @@
   
 <div align="center">  
 <a href="https://www.instagram.com/zevcr1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/josé-victor-cruz-rebouças-230057256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="mailto:josevictorcruzrb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/josé-victor-cruz-rebouças-230057256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-65A0BC?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="mailto: josevictorcruzrb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-e15a60?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
  
 ##
 ### Main skills:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![PSD](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
-![POWER BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-8D65BC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![PSD](https://img.shields.io/badge/Adobe%20Photoshop-6582BC?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
+![POWER BI](https://img.shields.io/badge/PowerBI-FF8164?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=252b2e&height=120&section=footer"/>
