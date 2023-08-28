@@ -21,8 +21,11 @@
  
 ##
 ### Main skills:
-![C](https://img.shields.io/badge/C-8D65BC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-1656E2?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![PSD](https://img.shields.io/badge/Adobe%20Photoshop-6582BC?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
-![POWER BI](https://img.shields.io/badge/PowerBI-FF8164?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![POWER BI](https://img.shields.io/badge/PowerBI-E2D116?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-CB5100?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-507D8D?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=252b2e&height=120&section=footer"/>
