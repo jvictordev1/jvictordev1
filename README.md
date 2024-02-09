@@ -7,14 +7,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictordev1&layout=compact&hide_border=true&title_color=EB4450&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jvictordev1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-  
+##
 <div align="center">  
-<a href="https://www.instagram.com/zevcr1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/josé-victor-cruz-rebouças-230057256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-65A0BC?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="mailto: josevictorcruzrb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-e15a60?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  
+  ### Socials:
+  <div>
+    <a href="https://www.instagram.com/zevcr1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href="https://www.linkedin.com/in/josé-victor-cruz-rebouças-230057256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-65A0BC?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+    <a href="mailto: josevictorcruzrb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-e15a60?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  </div>
 </div>
  
 ##
