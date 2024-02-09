@@ -12,17 +12,26 @@
   
   ### Socials:
   <div>
-    <a href="https://www.instagram.com/zevcr1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href="https://www.linkedin.com/in/josé-victor-cruz-rebouças-230057256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-65A0BC?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-    <a href="mailto: josevictorcruzrb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-e15a60?style=for-the-badge&logo=gmail&logoColor=white"</a>
+   <!--- <a href="https://www.instagram.com/zevcr1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> --->
+    <a href="https://www.linkedin.com/in/josé-victor-cruz-rebouças-230057256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1d2735?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto: josevictorcruzrb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1d2735?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
 </div>
  
 ##
+<div align="center">
+  
 ### Main skills:
-![C](https://img.shields.io/badge/C-1656E2?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![PSD](https://img.shields.io/badge/Adobe%20Photoshop-6582BC?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
-![POWER BI](https://img.shields.io/badge/PowerBI-E2D116?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-CB5100?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-507D8D?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  
+  ![HTML](https://img.shields.io/badge/HTML5-1d2735?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/CSS3-1d2735?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-1d2735?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+  ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-1d2735?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+  ![REACT](https://img.shields.io/badge/React-1d2735?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+  ![FIGMA](https://img.shields.io/badge/Figma-1d2735?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+  ![C](https://img.shields.io/badge/C-1d2735?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+  ![PSD](https://img.shields.io/badge/Adobe%20Photoshop-1d2735?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)&nbsp;
+  ![POWER BI](https://img.shields.io/badge/PowerBI-1d2735?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+
+</div>
+
