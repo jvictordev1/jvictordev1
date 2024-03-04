@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4450&size=35&center=true&vCenter=true&width=1000&lines=wassup!,+my+name+is+José+Victor+Cruz+Rebouças;21+years+old;computer+engineering+graduate+at+UNIVASF;Juazeiro,+BA,+Brazil;constantly+looking+for+upgrade+my+craft;be+welcome+at+my+journey.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EB4450&size=35&center=true&vCenter=true&width=1000&lines=wassup!,+my+name+is+José+Victor+Cruz+Rebouças;21+years+old;computer+engineering+undergraduate+at+UNIVASF;Juazeiro,+BA,+Brazil;constantly+looking+for+upgrade+my+craft;be+welcome+at+my+journey.)](https://git.io/typing-svg)
 
 ##
 
